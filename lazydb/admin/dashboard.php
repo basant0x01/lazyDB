@@ -112,7 +112,7 @@
     <!-- doctor visit start  -->
     <div class="doctors-visiting">
         <div class="heading">
-            <h3>Technology Divison</h3>
+            <h3>Technology Divison [ Top-10 ]</h3>
             <a href="#" class="btn">View All</a>
         </div>
         <table class="visiting">

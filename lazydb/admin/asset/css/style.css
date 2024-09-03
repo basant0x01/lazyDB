@@ -135,7 +135,7 @@ img{
     grid-gap: 20px;
 }
 .cards .card{
-    background: #1abc9c;
+    background: indianred;
     padding: 20px;
     display: flex;
     align-items: center;

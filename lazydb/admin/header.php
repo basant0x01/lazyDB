@@ -116,7 +116,7 @@
                       $total_subdomains = count(explode("\n", trim($subdomains)));
                       ?>
                 <div class="number"><?php echo $total_subdomains; ?></div>
-                <div class="card-name">All Subdomains</div>
+                <div class="card-name">All Subdomains: <span><a href="view-total-subdomains.php">View Details</a></span></div>
             </div>
             <div class="icon-box">
                 <i class="fas fa-wheelchair"></i>

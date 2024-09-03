@@ -13,14 +13,14 @@
     <div class="cards">
         <div class="card">
             <div class="card-content">
-                <label>Program Name</label>
+                <label>Program Name:</label>
                 <div class="card-name"><?php echo $row['program_name']; ?></div>
             </div>
         </div>
 
 
 
-                    <?php
+                  <?php
 
                   $program_id = $_GET['program_id'];
                   $query = "SELECT program_subdomains, program_manual_subdomains FROM my_projects WHERE program_id = $program_id";
@@ -46,8 +46,8 @@
 
         <div class="card">
             <div class="card-content">
-                <div style="color: darkred;" class="number"><?php echo $total_subdomains; ?></div>
-                <label>Total Subdomains</label>
+                <div class="number"><?php echo $total_subdomains; ?></div>
+                <label>Total Subdomains <span><a href="view-subdomains.php?program_id=<?php echo $_GET['program_id']; ?>">View Details</a></span></label>
             </div>
         </div>
 
@@ -55,24 +55,26 @@
         <div class="card">
             <div class="card-content">
                 <div class="number">N/A</div>
-                <div class="card-name">N/A</div>
-            </div>
-            <div class="icon-box">
-                <i class="fas fa-bed"></i>
+                <label>New Subdomains [24/hr] <span><a href="">View Details</a></span></label>
             </div>
         </div>
-
 
         <div class="card">
             <div class="card-content">
                 <div class="number">N/A</div>
                 <div class="card-name">N/A</div>
             </div>
-            <div class="icon-box">
-                <i class="fas fa-dollar-sign"></i>
+        </div>
+
+        <div class="card">
+            <div class="card-content">
+                <div class="number">N/A</div>
+                <div class="card-name">N/A</div>
             </div>
         </div>
     </div>
+
+
     <!-- cards end  -->
 
 
