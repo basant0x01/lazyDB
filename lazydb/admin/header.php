@@ -3,6 +3,7 @@
 <?php
     session_start();
     include "db.php";
+    include "auth_check.php";
 ?>
 <head>
     <meta charset="UTF-8">
@@ -19,7 +20,7 @@
     <div class="sidebar">
         <ul>
             <li>
-                <a href="#">
+                <a href="http://localhost/lazydb/admin/dashboard.php">
                     <i class="fas fa-clinic-medical"></i>
                     <div class="title">LazyDB v0.1</div>
                 </a>
@@ -116,7 +117,7 @@
                       $total_subdomains = count(explode("\n", trim($subdomains)));
                       ?>
                 <div class="number"><?php echo $total_subdomains; ?></div>
-                <div class="card-name">All Subdomains: <span><a href="view-total-subdomains.php">View Details</a></span></div>
+                <div class="card-name">All Subdomains: <span><a style="text-decoration: none;" href="view-total-subdomains.php">View Details</a></span></div>
             </div>
             <div class="icon-box">
                 <i class="fas fa-wheelchair"></i>

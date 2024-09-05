@@ -3,6 +3,7 @@
 <?php
     session_start();
     include "db.php";
+    include "auth_check.php"; // Check if user is logged in or not.
 ?>
 <head>
     <meta charset="UTF-8">

@@ -17,11 +17,12 @@
     <!-- last appoinments start  -->
     <div class="last-appoinments">
         <div class="heading">
-            <h3>Program Management</h3>
+            <h3 style="background: indianred;padding: 6px;color: white;">Program Management</h3>
                 <div style="padding: 10px;" class="search">
                     <input type="text" name="search" placeholder="Search Subs/Progs">
                     <label for="search"><i class="fa fa-search"></i></label>
                 </div>
+                <a style="background: linear-gradient(45deg, #47cebe , #ef4a82);padding: 6px;color: white;text-decoration: none;" href="create-project.php">Create New Project</a>
             <a href="#" class="btn">View All</a>
         </div>
 

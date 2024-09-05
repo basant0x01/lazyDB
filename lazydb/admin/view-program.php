@@ -47,7 +47,7 @@
         <div class="card">
             <div class="card-content">
                 <div class="number"><?php echo $total_subdomains; ?></div>
-                <label>Total Subdomains <span><a href="view-subdomains.php?program_id=<?php echo $_GET['program_id']; ?>">View Details</a></span></label>
+                <label>Total Subdomains <span><a style="text-decoration: none;" href="view-subdomains.php?program_id=<?php echo $_GET['program_id']; ?>">View Details</a></span></label>
             </div>
         </div>
 
@@ -55,7 +55,7 @@
         <div class="card">
             <div class="card-content">
                 <div class="number">N/A</div>
-                <label>New Subdomains [24/hr] <span><a href="">View Details</a></span></label>
+                <label>New Subdomains [24/hr] <span><a style="text-decoration: none;" href="">View Details</a></span></label>
             </div>
         </div>
 
