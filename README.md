@@ -3,7 +3,7 @@ LazyDB is an advanced system designed to efficiently manage bug-hunting assets a
 
 ![image](https://github.com/user-attachments/assets/93a843ae-4822-433f-b827-51fb943cdcfb)
 
-## [Note: This is just an pre-release and not recommend to use before we release full production version 1.0 ]
+#### [ Note: This is just an pre-release and not recommend to use before we release full production version 1.0 ]
 
 ## Features based on the version's
 1. lazydb_v0.1
