@@ -17,3 +17,8 @@ LazyDB is an advanced system designed to efficiently manage bug-hunting assets a
 4. Enter root / root to login as admin.
 
 
+## Future concept based on the upcomming version
+1. Version 1.0 (beta)
+   ![image](https://github.com/user-attachments/assets/ca19ae8d-2e9a-48ef-be32-adcc305dff7c)
+
+   We are working on the pre-production of this release and soon the site will be open for the public use.
