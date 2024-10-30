@@ -7,7 +7,7 @@ LazyDB is an advanced system designed to efficiently manage bug-hunting assets a
 
 ## Features based on the version's
 1. lazydb_v0.1
-  - Automated Subdomains enumeration and scope management
+   - Automated Subdomains enumeration and scope management
 
 
 ## How to Setup an Environment
