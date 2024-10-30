@@ -1,6 +1,14 @@
 # lazyDB
 LazyDB is an advanced system designed to efficiently manage bug-hunting assets and scopes. It categorizes these resources into different classifications based on the technology used on the subdomains to streamline and enhance the bug-hunting process. With LazyDB, you can easily organize and access your bug-hunting tools and data, making it a valuable asset for developers and security professionals.
+
 ![image](https://github.com/user-attachments/assets/93a843ae-4822-433f-b827-51fb943cdcfb)
+
+## [Note: This is just an pre-release and not recommend to use before we release full production version 1.0 ]
+
+## Features based on the version's
+1. lazydb_v0.1
+  - Automated Subdomains enumeration and scope management
+
 
 ## How to Setup an Environment
 1. Install xampp(windows) or lammp (linux)
