@@ -13,8 +13,11 @@ LazyDB is an advanced system designed to efficiently manage bug-hunting assets a
 ## How to Setup an Environment
 1. Install xampp(windows) or lammp (linux)
 2. Unpack lazydb_v0.1.zip into the htdocs folder
-3. Goto the http://localhost/lazydb
-4. Enter root / root to login as admin.
+3. Start xampp server
+4. Visit link http://localhost/lazydb
+5. Enter root:root to login as an admin.
+
+And Enjoy :)
 
 
 ## Future concept's based on the upcomming version
