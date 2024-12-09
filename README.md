@@ -26,7 +26,7 @@ LazyDB is an advanced system designed to efficiently manage bug-hunting assets a
 
 And Enjoy :)
 
-Maybe in future, we can use LazyDB as a site also.
+Maybe in future, we can use LazyDB without hosting locally
 
 
 ## Future concept's based on the upcomming version
