@@ -9,14 +9,28 @@ LazyDB is an advanced system designed to efficiently manage bug-hunting assets a
 #### [ Note: This is just an pre-release and not recommend to use untill i release new full production version 1.0 ]
 
 ## Features based on the version's
-1. lazydb_v1.0 ( Beta Version )
-   - One Click: Powerfull Subdomain Scanner/Detector with auto live Subdomains resolver ( Pass )
-	- One Click: Scan Technologies for all subdomains ( Pass )
-	- Default Tech Filter: WordPress ( Pending )
-	- User's can create and add new tech filters upto '3' ( Free Version ) ( Pending )
-	- Search filter's for subdomains and programs ( Pass )
-	- Search filter's for tech & subdomains. ( User searches tech and application automatically filters related subdomains ) ( Pending )
-   - UI/UX bug Fixes
+lazydb_v1.0 (Beta Version)
+
+1. One-Click Subdomain Scanner/Detector
+- A powerful tool for identifying subdomains with automatic resolution of live subdomains. (Status: Passed)
+
+2. One-Click Technology Scanner
+- Scans and identifies technologies for all detected subdomains. (Status: Passed)
+
+3. Default Technology Filter: WordPress
+- Predefined filter for WordPress detection. (Status: Pending)
+
+4. Custom Technology Filters
+- Users can create and add up to three custom technology filters in the free version. (Status: Pending)
+
+5. Subdomain and Program Search Filters
+- Advanced search functionality for filtering subdomains and programs. (Status: Passed)
+
+6. Technology and Subdomain Search Filters
+- Enables users to search for technologies, automatically filtering related subdomains. (Status: Pending)
+
+7. UI/UX Enhancements
+- Fixes and improvements for better user experience. (Status: Passed)
 
 
 ## How to Setup an Environment
