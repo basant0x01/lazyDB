@@ -1,7 +1,0 @@
-[Date: Sept 3]
-- LazyDB v0.1
-	- Program Create, Update & Delete
-	- Subdomain Enumerating Engine Design
-		- One Click Enumeratation Per Program
-		- One Click Enumeratation on All Program
-		- One Click Technology Wise Categorize of All Program
