@@ -22,21 +22,22 @@
 </p>
 
 
-# lazyDB v1.9.0
+# lazyDB v1.9.0 - Beta
 LazyDB is an advanced system designed to efficiently manage bug-hunting assets and scopes. It categorizes these resources into different classifications based on the technology used on the subdomains to streamline and enhance the bug-hunting process. With LazyDB, you can easily organize and access your bug-hunting tools and data, making it a valuable asset for developers and security professionals.
 
 
-## WorkFlow
+## WorkFlow / Mindmap
 
 
 ## Features
-Reconnaissance: view-subdomains.php
+##### Reconnaissance: view-subdomains.php
   - Katana
   - Waybackurls
   - Ffuf / Dirsearch
+  - SecretFinder
   - More
 
-Vulnerability Scanning via Tech: view_required_tech_subs.php
+##### Vulnerability Scanning via Technology: view_required_tech_subs.php
   - Nuclei with Custom Private Templates
 
 ## Product's Different Page's
