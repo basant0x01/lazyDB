@@ -30,14 +30,15 @@ LazyDB is an advanced system designed to efficiently manage bug-hunting assets a
 
 
 ## Features
-##### Reconnaissance: view-subdomains.php
+#### Reconnaissance: view-subdomains.php
+  - Subdomain Enumeration
   - Katana
   - Waybackurls
   - Ffuf / Dirsearch
   - SecretFinder
   - More
 
-##### Vulnerability Scanning via Technology: view_required_tech_subs.php
+#### Vulnerability Scanning via Technology: view_required_tech_subs.php
   - Nuclei with Custom Private Templates
 
 ## Product's Different Page's
