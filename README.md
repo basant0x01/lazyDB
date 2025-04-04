@@ -29,6 +29,17 @@ LazyDB is an advanced system designed to efficiently manage bug-hunting assets a
 ## WorkFlow / Mindmap
 
 
+## Quick Installition
+  - Install & Run Xampp / Lampp ( `./xampp start` )
+  - Download lazydb_v1.9.0_full_production_database.zip and Import into phpmyadmin
+  - Download LazyDBv1.90.zip, Extract & Copy Paste into htdocs as lazydb a Folder name
+  - Go to the Link: 127.0.0.1/lazydb
+  - Signup your account & Login
+  - Attack.
+    
+[ Note: Currently we are running lazydb as Locally but in future we are running it as a Product ( https://www.lazydb.ai ) ]
+
+    
 ## Features
 #### Reconnaissance: view-subdomains.php
   - Subdomain Enumeration
