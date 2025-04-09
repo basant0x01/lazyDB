@@ -2,18 +2,18 @@
   <h3>LazyDB: The Ultimate Bugbounty Scope Management & Vulnerability Scanning Product  🚀</h3>
 </p>
 
-<p align="center"><a href="https://github.com/yogeshojha/rengine/releases" target="_blank"><img src="https://img.shields.io/badge/version-v2.2.0-informational?&logo=none" alt="reNgine Latest Version" /></a>&nbsp;<a href="https://www.gnu.org/licenses/gpl-3.0" target="_blank"><img src="https://img.shields.io/badge/License-GPLv3-red.svg?&logo=none" alt="License" /></a>&nbsp;<a href="#" target="_blank"><img src="https://img.shields.io/badge/first--timers--only-friendly-blue.svg?&logo=none" alt="" /></a></p>
+<p align="center"><a href="https://github.com/basant0x01/lazydb/releases" target="_blank"><img src="https://img.shields.io/badge/version-v2.2.0-informational?&logo=none" alt="reNgine Latest Version" /></a>&nbsp;<a href="https://www.gnu.org/licenses/gpl-3.0" target="_blank"><img src="https://img.shields.io/badge/License-GPLv3-red.svg?&logo=none" alt="License" /></a>&nbsp;<a href="#" target="_blank"><img src="https://img.shields.io/badge/first--timers--only-friendly-blue.svg?&logo=none" alt="" /></a></p>
 
 <p align="center">
 
 </p>
 
 <p align="center">
-<a href="https://github.com/yogeshojha/rengine/actions/workflows/codeql-analysis.yml" target="_blank"><img src="https://github.com/yogeshojha/rengine/actions/workflows/codeql-analysis.yml/badge.svg" alt="" /></a>&nbsp;<a href="https://github.com/yogeshojha/rengine/actions/workflows/build.yml" target="_blank"><img src="https://github.com/yogeshojha/rengine/actions/workflows/build.yml/badge.svg" alt="" /></a>&nbsp;
+<a href="https://github.com/basant0x01/lazydb//actions/workflows/codeql-analysis.yml" target="_blank"><img src="https://github.com/basant0x01/lazydb//actions/workflows/codeql-analysis.yml/badge.svg" alt="" /></a>&nbsp;<a href="https://github.com/basant0x01/lazydb/actions/workflows/build.yml" target="_blank"><img src="https://github.com/basant0x01/lazydb//actions/workflows/build.yml/badge.svg" alt="" /></a>&nbsp;
 </p>
 
 <p align="center">
-<a href="https://discord.gg/H6WzebwX3H" target="_blank"><img src="https://img.shields.io/discord/880363103689277461" alt="" /></a>&nbsp;
+<a href="https://discord.gg/xxxxx" target="_blank"><img src="https://img.shields.io/discord/xxxxx" alt="" /></a>&nbsp;
 </p>
 
 <p align="center">
