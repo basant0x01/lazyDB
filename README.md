@@ -37,7 +37,7 @@ LazyDB is an advanced system designed to efficiently manage bug-hunting assets a
   - Signup your account & Login
   - Attack.
     
-[ Note: Currently we are running lazydb as Locally but in future we are running it as a Product ( https://www.lazydb.ai ) ]
+[ Note: Currently we are running lazydb as Locally but in future we are running it as a Application ( https://www.lazydb.ai ) ]
 
     
 ## Features
