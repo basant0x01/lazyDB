@@ -2,7 +2,7 @@
   <h3>LazyDB: The Ultimate Bugbounty Scope Management & Vulnerability Scanning Application  🚀</h3>
 </p>
 
-<p align="center"><a href="https://github.com/basant0x01/lazydb/releases" target="_blank"><img src="https://img.shields.io/badge/version-v2.2.0-informational?&logo=none" alt="reNgine Latest Version" /></a>&nbsp;<a href="https://www.gnu.org/licenses/gpl-3.0" target="_blank"><img src="https://img.shields.io/badge/License-GPLv3-red.svg?&logo=none" alt="License" /></a>&nbsp;<a href="#" target="_blank"><img src="https://img.shields.io/badge/first--timers--only-friendly-blue.svg?&logo=none" alt="" /></a></p>
+<p align="center"><a href="https://github.com/basant0x01/lazydb/releases" target="_blank"><img src="https://img.shields.io/badge/version-v1.9.0-informational?&logo=none" alt="reNgine Latest Version" /></a>&nbsp;<a href="https://www.gnu.org/licenses/gpl-3.0" target="_blank"><img src="https://img.shields.io/badge/License-GPLv3-red.svg?&logo=none" alt="License" /></a>&nbsp;<a href="#" target="_blank"><img src="https://img.shields.io/badge/first--timers--only-friendly-blue.svg?&logo=none" alt="" /></a></p>
 
 <p align="center">
 
